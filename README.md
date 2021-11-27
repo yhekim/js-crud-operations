@@ -1,17 +1,19 @@
-# Json_Server_Post_Message
+# JS-Crud-Operations
 
 ## Description
-- JSON server has been implemented in the project with JS
+- js crud operations made with css bootstrap
 
-- Project aims to display movie choices and seats in a theater to select from in order to purchase tickets
+- Staff were drawn using api in js
 
-- It is a cinema living room project made in JS. And here the information is saved in Local Storage.
+- The data was brought using the get method api.
 
-- https://happy-fermat-f04317.netlify.app/
+- The put post and delete methods are arranged by sending a request to the queryed API.
 
-- https://yhekim.github.io/JSON-Server_Post_Message/
+- https://yhekim.github.io/js-crud-operations/
 
-- ![gif](https://raw.githubusercontent.com/yhekim/JSON-Server_Post_Message/main/message_app_server_post.gif)
+- https://musing-lewin-8c9dc6.netlify.app/
+
+- ![gif](https://raw.githubusercontent.com/yhekim/js-crud-operations/main/js-crud-operations.gif)
 
 ## Learning Outcomes
 
